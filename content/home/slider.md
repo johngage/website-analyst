@@ -10,17 +10,17 @@ item:
     overlay_filter: 0.5
     cta_icon: graduation-cap
     cta_icon_pack: fas
-    overlay_color: "#666"
-    overlay_img: britishhighcouncil.jpg
-    title: Hello
+    #overlay_color: "#666"
+    overlay_img: britishhighcommission.jpg
+    title: British
     content: I am center aligned 😄
-  - title: Left
+  - title: Slovakia
     content: I am left aligned 😄
     align: left
     #overlay_color: "#555"
     overlay_img: "slovakiaembassy.png"
     overlay_filter: 0.1
-  - title: Right
+  - title: USA
     content: I am right aligned 😄
     align: right
    #overlay_color: "#333"
