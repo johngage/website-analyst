@@ -2,7 +2,7 @@
 widget: slider
 headless: true
 interval: false
-height: 300px
+height: 600px
 item:
   - cta_url: https://example.org
     cta_label: Download my app
