@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: true
-interval: false
+interval: true
 height: 300px
 item:
   - cta_url: https://example.org
@@ -18,7 +18,7 @@ item:
     content: I am left aligned 😄
     align: left
     overlay_color: "#555"
-    overlay_img: ""
+    overlay_img: "/static/media/slovakiaembassy.png"
     overlay_filter: 0.5
   - title: Right
     content: I am right aligned 😄
