@@ -18,13 +18,13 @@ item:
     content: I am left aligned 😄
     align: left
     overlay_color: "#555"
-    overlay_img: "/static/media/slovakiaembassy.png"
+    overlay_img: "slovakiaembassy.png"
     overlay_filter: 0.5
   - title: Right
     content: I am right aligned 😄
     align: right
     overlay_color: "#333"
-    overlay_img: ""
+    overlay_img: "usembassy.jpg"
     overlay_filter: 0.5
 widget_id: home-slider
 weight: 10
