@@ -11,7 +11,7 @@ item:
     cta_icon: graduation-cap
     cta_icon_pack: fas
     #overlay_color: "#666"
-    overlay_img: britishhighcommission.jpg
+    overlay_img: "britishhighcommission.jpg"
     title: British
     content: I am center aligned 😄
   - title: Slovakia
