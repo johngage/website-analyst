@@ -11,7 +11,7 @@ item:
     cta_icon: graduation-cap
     cta_icon_pack: fas
     #overlay_color: "#666"
-    overlay_img: "britishhighcommission.jpg"
+    overlay_img: "britishhighcommission.jpeg"
     title: British
     content: I am center aligned 😄
   - title: Slovakia
@@ -28,6 +28,9 @@ item:
     #overlay_filter: 0.9
   - title: France
     overlay_img: "frenchembassy.jpg"
+  - title: first slide
+    content: Where is the first slide? 
+    overlay_color: #222
 widget_id: home-slider
 weight: 10
 design:
