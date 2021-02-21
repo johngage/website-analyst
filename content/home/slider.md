@@ -11,7 +11,7 @@ item:
     cta_icon: graduation-cap
     cta_icon_pack: fas
     overlay_color: "#666"
-    overlay_img: bubbles.jpg
+    overlay_img: britishhighcouncil.jpg
     title: Hello
     content: I am center aligned 😄
   - title: Left
@@ -25,7 +25,9 @@ item:
     align: right
    #overlay_color: "#333"
     overlay_img: "usembassy.jpg"
-    overlay_filter: 0.5
+    overlay_filter: 0.9
+  - title: France
+    overlay_img: "frenchembassy.jpg"
 widget_id: home-slider
 weight: 10
 design:
