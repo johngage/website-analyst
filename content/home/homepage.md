@@ -4,7 +4,7 @@ widget: blank
 widget_id: homepage
 headless: true
 weight: 10
-title: A new page for a new day
+title: A restart to rebuild
 subtitle: ""
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
