@@ -57,5 +57,5 @@ gallery_item:
 
 {{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
 
-{{< github-Chrede88-figArray numCols=2 srcArray="kenyagov.jpg,frenchembassy.jpg,hello.jpg, https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png " thumbCaption="Kenya Gov,French Embassy,Chinese beauty,New York Times" figCaption="Four images from different directories" >}}
+{{< github-Chrede88-figArray numCols=2 srcArray="kenyagov.jpg,frenchembassy.jpg,hello.jpg,unhcr.png" thumbCaption="Kenya Gov,French Embassy,Chinese beauty" figCaption="Four images from different directories" >}}
 
