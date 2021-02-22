@@ -57,5 +57,5 @@ gallery_item:
 
 {{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
 
-{{< github-Chrede88-figArray numCols=2 srcArray="kenyagov.jpg,frenchembassy.jpg,hello.jpg,unhcr.png" thumbCaption="Kenya Gov,French Embassy,Chinese beauty" figCaption="Four images from different directories" >}}
+{{< github-Chrede88-figArray numCols=2 srcArray="kenyagov.jpg,frenchembassy.jpg,unhcr.png" thumbCaption="Kenya Gov,French Embassy,UNHCR" figCaption="Three images from same directories" >}}
 
