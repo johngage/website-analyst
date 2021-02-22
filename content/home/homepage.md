@@ -20,7 +20,7 @@ design:
 ---
 ## My Mission
 
-This is modified in CMS. 
+This is modified in CMS. now in github
 
 ## Specialties
 
