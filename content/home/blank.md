@@ -28,5 +28,5 @@ gallery_item:
   
 {{< figure library="true" src="hello.jpg" title="Duplicate" >}}
 
-{{< youtube Pfxmqn6g&ab_channel=AliAbdaal >}}
+{{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
 
