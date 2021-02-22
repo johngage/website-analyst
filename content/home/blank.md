@@ -19,7 +19,7 @@ gallery_item:
  - album: gallery
    image: frenchembassy.jpg
  - album: gallery
-   image: slovakiaembassy.jpg
+   image: slovakiaembassy.png
  - album: gallery
    image: britishhighcommission.jpeg
    
