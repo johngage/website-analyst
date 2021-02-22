@@ -11,7 +11,7 @@ item:
     cta_icon: graduation-cap
     cta_icon_pack: fas
     overlay_color: "#666"
-    overlay_img: bubbles.jpg
+    overlay_img: undp.png
     title: Hello
     content: I am center aligned 😄
   - title: Left
