@@ -1,11 +1,10 @@
 ---
-
 widget: blank
 widget_id: homepage
 headless: true
 weight: 10
-title: A restart to rebuild
-subtitle: ""
+title: A restart to find what went wrong
+subtitle: "Oh, no"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -29,7 +28,7 @@ advanced:
 ---
 ## My Mission
 
-This is modified in CMS. now in github
+This is modified in CMS. now in github, now in atom
 
 ## Specialties
 
