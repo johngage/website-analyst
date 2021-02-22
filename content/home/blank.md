@@ -51,6 +51,6 @@ gallery_item:
 ---
 {{< gallery >}}
 
-{{< figure library="true" src="hello.jpg" title="Duplicate" >}}
+{{< figure src="hello.jpg" title="Which One?" >}}
 
 {{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
