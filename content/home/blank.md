@@ -29,6 +29,25 @@ gallery_item:
    image: britishhighcommission.jpeg
  - album: gallery
    image: unhcr.png
+ - album: gallery
+   image: undp.jpg
+   caption: UNDP
+ - album: gallery
+   image: kenyagov.jpg
+ - album: gallery
+   image: usembassy.jpg
+   caption: gallery 1
+ - album: gallery
+   image: https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png
+   caption: NYT
+ - album: gallery
+   image: frenchembassy.jpg
+ - album: gallery
+   image: slovakiaembassy.png
+ - album: gallery
+   image: britishhighcommission.jpeg
+ - album: gallery
+   image: unhcr.png
 
    
 ---
