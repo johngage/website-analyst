@@ -11,6 +11,11 @@ gallery_item:
    image: hello.jpg
    caption: gallery one
  - album: gallery
+   image: undp.jpg
+   caption: UNDP
+ - album: gallery
+   image: kenyagov.jpg
+ - album: gallery
    image: usembassy.jpg
    caption: gallery 1
  - album: gallery
@@ -24,11 +29,7 @@ gallery_item:
    image: britishhighcommission.jpeg
  - album: gallery
    image: unhcr.png
- - album: gallery
-   image: undp.jpg
-   caption: UNDP
- - album: gallery
-   image: kenyagov.jpg
+
    
 ---
 {{< gallery >}}
