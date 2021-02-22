@@ -13,7 +13,7 @@ item:
     #overlay_color: "#666"
     overlay_img: undp.png
     title: undp
-    content: I am newly aligned 😄
+    content: I am happily aligned 😄
   - title: Left
     content: I am left aligned 😄
     align: left
