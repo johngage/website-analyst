@@ -10,14 +10,14 @@ item:
     overlay_filter: 0.5
     cta_icon: graduation-cap
     cta_icon_pack: fas
-    overlay_color: "#666"
+    #overlay_color: "#666"
     overlay_img: undp.png
     title: undp
     content: I am center aligned 😄
   - title: Left
     content: I am left aligned 😄
     align: left
-    overlay_color: "#555"
+   # overlay_color: "#555"
     overlay_img: "frenchembassy.jpg"
     overlay_filter: 0.5
   - title: Right
