@@ -1,30 +1,23 @@
 ---
+advanced:
+  css_style: null
+  css_class: fullscreen
 widget: blank
-widget_id: homepage
+widget_id: homepage1
 headless: true
 weight: 10
 title: A restart to find what went wrong
-subtitle: "Oh, no"
+subtitle: Oh, no
+active: true
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: "1"
   background:
-    # Apply a background color, gradient, or image.
-    #   Uncomment (by removing `#`) an option to apply it.
-    #   Choose a light or dark text color by setting `text_color_light`.
-    #   Any HTML color name or Hex value is valid.
-    # color: navy
-    # gradient_start: DarkGreen
-    # gradient_end: ForestGreen
-    image: hello.jpg  # Name of image in `static/media/`.
+    image: /static/media/undp.jpg
     image_darken: 0.4
     image_size: cover
     image_position: right
     image_parallax: true
     text_color_light: true
-advanced:
-  css_style: null
-  css_class: fullscreen
 ---
 ## My Mission
 
