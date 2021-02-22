@@ -16,6 +16,12 @@ gallery_item:
  - album: gallery
    image: https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png
    caption: NYT
+ - album: gallery
+   image: frenchembassy.jpg
+ - album: gallery
+   image: slovakiaembassy.jpg
+ - album: gallery
+   image: britishhighcommission.jpeg
    
 ---
 {{< gallery >}}
