@@ -8,12 +8,12 @@ headless: true
 weight: 10
 title: A restart to find what went wrong
 subtitle: Oh, no
-active: true
+active: false
 design:
   columns: "1"
   background:
     image: /static/media/undp.jpg
-    image_darken: 0.4
+    image_darken: 0.1
     image_size: cover
     image_position: right
     image_parallax: true
