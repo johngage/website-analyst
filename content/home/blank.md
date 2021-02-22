@@ -26,6 +26,8 @@ gallery_item:
    image: unhcr.png
  - album: gallery
    image: undp.jpg
+ - album: gallery
+   image: kenyagov.jpg
    
 ---
 {{< gallery >}}
