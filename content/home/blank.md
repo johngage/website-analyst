@@ -5,7 +5,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 
-# ... Put Your Section Options Here (title etc.) ...
+# ... Put Your Section Options Here (title etc.)and how?
 gallery_item:
  - album: gallery
    image: hello.jpg
@@ -48,13 +48,9 @@ gallery_item:
    image: britishhighcommission.jpeg
  - album: gallery
    image: unhcr.png
-
-   
 ---
 {{< gallery >}}
-  
+
 {{< figure library="true" src="hello.jpg" title="Duplicate" >}}
 
 {{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
-
-
