@@ -11,8 +11,12 @@ gallery_item:
    image: hello.jpg
    caption: gallery one
  - album: gallery
+   image: usembassy.jpg
+   caption: gallery 1
+ - album: gallery
    image: https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png
-   caption: Another caption
+   caption: NYT
+   
 ---
 {{< gallery >}}
   
