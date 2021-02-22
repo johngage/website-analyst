@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: true
-interval: false
+interval: true
 height: 300px
 item:
   - cta_url: https://example.org
@@ -10,14 +10,14 @@ item:
     overlay_filter: 0.5
     cta_icon: graduation-cap
     cta_icon_pack: fas
-    overlay_color: "#666"
+    #overlay_color: "#666"
     overlay_img: frenchembassy.jpb
-    title: Hello
+    title: French
     content: I am center aligned 😄
-  - title: Left
+  - title: Left Kenya
     content: I am left aligned 😄
     align: left
-    overlay_color: "#555"
+    #overlay_color: "#555"
     overlay_img: "kenyagov.jpg"
     overlay_filter: 0.5
   - title: Right
