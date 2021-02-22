@@ -26,6 +26,7 @@ gallery_item:
    image: unhcr.png
  - album: gallery
    image: undp.jpg
+   caption: UNDP
  - album: gallery
    image: kenyagov.jpg
    
