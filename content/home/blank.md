@@ -22,6 +22,10 @@ gallery_item:
    image: slovakiaembassy.png
  - album: gallery
    image: britishhighcommission.jpeg
+ - album: gallery
+   image: unhcr.png
+ - album: gallery
+   image: undp.jpg
    
 ---
 {{< gallery >}}
