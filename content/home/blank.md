@@ -14,7 +14,7 @@ gallery_item:
    image: https://static01.nyt.com/vi-assets/images/share/1200x675_nameplate.png
    caption: Another caption
 ---
-{{ <gallery> }}
+{{< gallery >}}
   
 {{< figure library="true" src="hello.jpg" title="Duplicate" >}}
 
