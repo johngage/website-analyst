@@ -1,6 +1,6 @@
 ---
 title: Wuhan data suggests we can't count on a single near peak
-date: 2021-02-23T09:10:33.812Z
+date: 2020-03-27T13:10:00.000Z
 draft: false
 featured: false
 image:
