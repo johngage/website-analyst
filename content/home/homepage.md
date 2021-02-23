@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: homepage1
 headless: true
-weight: 10
+weight: 20
 title: A restart to find what went wrong
 subtitle: Oh, no
 active: false

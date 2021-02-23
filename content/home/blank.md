@@ -47,7 +47,7 @@ gallery_item:
   - album: gallery
     image: unhcr.png
 widget_id: blank-gallery
-weight: 20
+weight: 30
 ---
 {{< gallery >}}
 
