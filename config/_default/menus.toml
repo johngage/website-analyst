@@ -9,7 +9,7 @@
 #  weight = 10
 [[main]]
   name = "Pages"
-  url = "#pages"
+  url = "#page"
   weight = 20
 #
 #[[main]]
