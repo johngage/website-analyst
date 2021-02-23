@@ -114,14 +114,12 @@ bill
 > \
 > PPS Here are two ideas for protecting hospital workers--
 >
-> > PROTECTING HOSPITAL WORKERS\
-> > \
+> > PROTECTING HOSPITAL WORKERS
 > >
 > > 1. N95’s can be UV-C’s or Microwaved (or probably treated with Ozone) and reused see this report from NIH.\
 > >    Don’t know why this isn’t talked about more or if hospitals know this.\
 > >    Published by Oxford University Press 2009.\
-> >    [https://www.ncbi.nlm.nih.gov/​pmc/articles/PMC2781738/pdf/​mep070.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781738/pdf/mep070.pdf)\
-> >    \
+> >    [https://www.ncbi.nlm.nih.gov/​pmc/articles/PMC2781738/pdf/​mep070.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781738/pdf/mep070.pdf)
 > > 2. Larry Brilliant wrote in a Wired interview that N95’s only cut the risk by 5x.\
 > >    This means that nurses and doctor’s are still exposed and in a long slog we’ll\
 > >    see problems like in Lombardy.\
