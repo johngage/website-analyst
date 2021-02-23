@@ -11,7 +11,7 @@ item:
     cta_icon: graduation-cap
     cta_icon_pack: fas
     #overlay_color: "#666"
-    overlay_img: undp.png
+    overlay_img: hello.jpg
     title: undp
     content: I am happily aligned 😄
   - title: Left
