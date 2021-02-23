@@ -1,7 +1,7 @@
 ---
 widget: slider
 headless: true
-interval: true
+interval: false
 height: 300px
 item:
   - cta_url: https://example.org
