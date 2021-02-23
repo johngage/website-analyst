@@ -7,6 +7,10 @@
 #  name = "Home"
 #  url = "#about"
 #  weight = 10
+[[main]]
+  name = "Pages"
+  url = "#pages"
+  weight = 20
 #
 #[[main]]
 #  name = "Posts"
