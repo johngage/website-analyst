@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "2-Nov-2020"
+title: "Simulation of Infections from Nov 2020 to May 2021"
 subtitle: "Seven Month Simulation of R0 and Deaths"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-02-22T23:20:16-08:00
-lastmod: 2021-02-22T23:20:16-08:00
+date: 2020-11-2T23:20:16-08:00
+lastmod: 2020-11-02T23:20:16-08:00
 featured: false
 draft: false
 
