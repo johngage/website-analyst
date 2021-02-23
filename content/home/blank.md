@@ -51,6 +51,6 @@ weight: 20
 ---
 {{< gallery >}}
 
-{{< figure library=true src="hello.jpg" title="Which One?" >}}
+{{< figure library=true src="usembassy.jpg" title="Which One?" >}}
 
 {{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
