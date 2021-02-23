@@ -19,64 +19,47 @@ This article which just appeared in the NY Times
 
 shows the kind of “saddle” behavior I previously imagined
 
-in the case curves with a second leg up is emerging in the case data
-
-from behind the huge peaks from unconstrained/rapid spread in NY, LA, MI, etc. that were otherwise occluding them,
-
-which observation emphasizes a concern that we may see a substantially larger number of cases confirmed in the data in say 4-6 weeks.
+in the case curves with a second leg up is emerging in the case data from behind the huge peaks from unconstrained/rapid spread in NY, LA, MI, etc. that were otherwise occluding them, which observation emphasizes a concern that we may see a substantially larger number of cases confirmed in the data in say 4-6 weeks.
 
 THIS WAS PREDICTED BY WUHAN DATA
 
-This is as was expected from the Wuhan data, available since March, as I had described in an April 6 email,
+This is as was expected from the Wuhan data, available since March, as I had described in an April 6 email, attached for convenience again below, which email contained this sketch of the effect
 
-attached for convenience again below, which email contained this sketch of the effect
-
-a variation of what was seen in Wuhan, this from a Harvard coauthored study from early March—
+\--a variation of what was seen in Wuhan, this from a Harvard coauthored study from early March—
 
 THIS MAKES STAYING WITHIN HOSPITAL CRITICAL CARE CAPACITY VERY DIFFICULT
 
-This “second stage” acceleration in cases will make it very difficult to get out of community spread and
+This “second stage” acceleration in cases will make it very difficult to get out of community spread and stay in a contact tracing regime and also importantly to not overload the hospital critical care capacity.
 
-stay in a contact tracing regime and also importantly to not overload the hospital critical care capacity.
-
-This paper
+This paper,
 
 > Projecting the transmission dynamics of SARS-CoV2 through the post-pandemic period.
 >
 > [https://science.sciencemag.​org/content/early/2020/04/24/​science.abb5793](https://science.sciencemag.org/content/early/2020/04/24/science.abb5793)
 
-estimates that we should really stay closed until we have a very low number of active cases
-
-perhaps 5 per 10000 or less before opening up during a contact tracing regime as was discussed in this paper
+estimates that we should really stay closed until we have a very low number of active cases--perhaps 5 per 10000 or less-- before opening up during a contact tracing regime as was discussed in this paper
 
 which paper suggests staying open in such a regime only until we have no more than 35 cases per 10000;
 
 these active cases then read on critical care capacity which we do not want to exceed.
 
-I here assume that the daily cases would need to be 10x less than this to have the active cases being this low
-
-(assuming 10 days in critical care average) and thus take the limits to be 5 and 35 actual new cases per 100,000 daily.
+I here assume that the daily cases would need to be 10x less than this to have the active cases being this low (assuming 10 days in critical care average) and thus take the limits to be 5 and 35 actual new cases per 100,000 daily.
 
 \
-With 330m people we would thus hope to get down to 3300*5 =16500 actual new cases per day to open up\
-not the probably 100000+ actual new cases per day we are at right now.
+With 330m people we would thus hope to get down to 3300*5 =16500 actual new cases per day to open up, not the probably 100000+ actual new cases per day we are at right now.
 
 Thus, despite 6 weeks or so of shelter-in-place, we are probably still >6x high.
 
 (The confirmed cases are of course only a fraction of the actual cases; this 100k cases is I think conservative for actual.)
 
-The Science paper authors state 35 per 10000 active here translated to be 35 per 100000 new daily cases,
-
-as a threshold to close down, from which at most 35*3300=115,500 daily countrywide new cases can be allowed
-
-to allow the hospital critical care capacity to be sufficient.\
+The Science paper authors state 35 per 10000 active here translated to be 35 per 100000 new daily cases, as a threshold to close down, from which at most 35*3300=115,500 daily countrywide new cases can be allowed to allow the hospital critical care capacity to be sufficient.\
 (This is also further discussed in my April 14 email discussing that paper reincluded below.)
 
 \
 Thus we should actually be clamping down now rather than opening up,\
 to try to bend the daily actual new case count down to 5 per 100000, which bending we have achieved far too weakly.\
 \
-HOW MUCH MIGHT REOPENING INCREASE THE CASE COUNT?\
+**HOW MUCH MIGHT REOPENING INCREASE THE CASE COUNT?**\
 \
 A simple estimate would be that opening up will raise the case count,\
 perhaps by 4x over the course of the next 4-6 weeks
@@ -86,7 +69,7 @@ perhaps by 4x over the course of the next 4-6 weeks
 leaving us the 6x above the 4x above \~\~25x above the Science-paper-suggested opening up level,\
 and overshooting the shut down level in the Science paper by at least 4x.\
 \
-A MODEST SUBGROUP COULD MAKE A SUBSTANTIAL ACCELERATION
+**A MODEST SUBGROUP COULD MAKE A SUBSTANTIAL ACCELERATION**
 
 \
 Here’s how 4x+ could easily happen—
@@ -118,7 +101,7 @@ I reattach finally below the simple spreadsheet previously prepared to show the 
 on the reduction of cases and the size of rolling open/closed waves.
 
 \
-WEAK SHUTDOWNS FROM A SECOND LEG UP GIVE NO PRACTICAL PATH TO CRITICAL CASES LOW\
+**WEAK SHUTDOWNS FROM A SECOND LEG UP GIVE NO PRACTICAL PATH TO CRITICAL CASES LOW**\
 \
 I see no path with current tools (weak shutdowns) from such amped up community spread back to a level
 
@@ -126,7 +109,7 @@ with critical cases low enough to avoid hospital overload and to make contact tr
 
 We are setting up to leave ourselves no reasonable-time-frame options out of such community spread.\
 \
-WITH PERSONAL N95-TYPE MASKS THERE MAY BE HOPE\
+**WITH PERSONAL N95-TYPE MASKS THERE MAY BE HOPE**\
 \
 I hope we can find a way to create a substantial supply of personal reusable N95-quality masks for the fall.
 
@@ -164,7 +147,7 @@ Best, Bill
 > \
 > I’ve tried to explain a few times the danger of a too-weak shelter in place, and mentioned that this may cause a “saddle” in cases. Here is a more detailed explanation.\
 > \
-> ESTIMATE FROM WUHAN\
+> **ESTIMATE FROM WUHAN**\
 > \
 > After Wuhan the statisticians estimated that R0 was still > 1 with people sheltering in place, as in this curve fit from Wuhan where strategies were changed quickly—
 >
@@ -177,7 +160,7 @@ Best, Bill
 > \
 > Further, in the West our shelter in places are weaker than Wuhan. People aren’t wearing masks which increases R0. Thankfully we are (very belatedly) getting past the preposterous lies about masks, but the “use them” message isn’t loud enough or mandatory (because, again, we are not prepared). We also aren’t segregating people with symptoms away from their families, having contacts shelter in place, using flu tests and blood tests and radiology to stretch our limited testing supplies, etc.\
 > \
-> THE SUM OF TWO CURVES\
+> **THE SUM OF TWO CURVES**\
 > \
 > So if, as the statisticians suggest, R0 is still greater than 1 for us even with shelter in place, then might we observe?\
 > \
@@ -188,7 +171,7 @@ Best, Bill
 > This simple simulation [https://www.youtube.com/watch?​v=gxAaO2rsdIs](https://www.youtube.com/watch?v=gxAaO2rsdIs) explains why the central location “store spread" effect is so very strong, and the lack of general wearing of even simple masks and the pernicious lie about their necessity for individuals, amplified by the asymptomatic carrier problem can have such a strong impact.
 >
 > \
-> A SADDLE\
+> **A SADDLE**\
 > \
 > The reason I wrote this note is because I haven’t seen discussed the saddle that we may see.\
 > \
@@ -198,7 +181,7 @@ Best, Bill
 > \
 > I hope the saddle does not happen, that R0 < 1 with our shelter in place, but that may well not be the case. If R0 is still >1 and we get a saddle it will be discouraging and confusing but should not be surprising.\
 > \
-> CONCLUSION\
+> **CONCLUSION**\
 > \
 > We should now, but certainly if a saddle emerges, need to do what they did in Wuhan, with a tighter shelter-in-place, wearing of masks, and segregating infectious people and their families. All this is enabled by much more availability of testing or use of other screening measures to stretch testing resources, as will certainly be necessary in other geographies say India).\
 > \
@@ -207,7 +190,9 @@ Best, Bill
 > You go to war with the tools you have. We have limited tools. We aren’t using them well and aren’t prepared, emotionally, for the range of possible outcomes, including the possibility of a “saddle”.\
 > \
 > Bill
->
+
+#### April 14 Note
+
 > From: Bill Joy [\[wnjoy@mac.com](mailto:wnjoy@mac.com)](mailto:[wnjoy@mac.com](mailto:wnjoy@mac.com))\
 > Subject: What lies Ahead--Science Magazine "Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period"\
 > Date: April 14, 2020 at 4:12:37 PM EDT\
@@ -378,7 +363,7 @@ Best, Bill
 
 
 
-\###  Attached Materials
+####  Attached Materials
 
 
 
