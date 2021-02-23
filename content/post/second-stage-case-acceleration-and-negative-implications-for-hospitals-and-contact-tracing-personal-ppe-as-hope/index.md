@@ -10,11 +10,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
 A SECOND STAGE ACCELERATION
-
-
 
 This article which just appeared in the NY Times
 
@@ -29,11 +25,7 @@ from behind the huge peaks from unconstrained/rapid spread in NY, LA, MI, etc. t
 
 which observation emphasizes a concern that we may see a substantially larger number of cases confirmed in the data in say 4-6 weeks.
 
-
-
 THIS WAS PREDICTED BY WUHAN DATA
-
-
 
 This is as was expected from the Wuhan data, available since March, as I had described in an April 6 email,
 
@@ -41,11 +33,7 @@ attached for convenience again below, which email contained this sketch of the e
 
 a variation of what was seen in Wuhan, this from a Harvard coauthored study from early March—
 
-
-
 THIS MAKES STAYING WITHIN HOSPITAL CRITICAL CARE CAPACITY VERY DIFFICULT
-
-
 
 This “second stage” acceleration in cases will make it very difficult to get out of community spread and
 
@@ -107,8 +95,6 @@ Imagine that 15% of the population, a subpopulation of like-minded people,
 
 throws off the restrictions and starts behaving as before—no masks, going to church, etc. mixing (birds of a feather).
 
-
-
 If this subgroup then has a doubling rate of a week\
 (conservative and allows for more rural, as unconstrained/more urban has been widely seen at \~\~3 days)\
 then this subgroup would have, after 5 weeks, 2^5=32x the case count\
@@ -126,8 +112,6 @@ We never got Rt low enough to see even the slow but sustained kind of decline th
 In the future, after the now-expected second leg up,\
 the length of time it would take in the kind of weakly-effective slow- to no- decline\
 shutdown to slowly get back to a practically traceable level will thus be unimaginably long.
-
-
 
 I reattach finally below the simple spreadsheet previously prepared to show the effect of better personal PPE
 
@@ -161,15 +145,11 @@ is too slow a process to get us to the 5 per 10000 active cases for “reopening
 
 in any reasonable timeframe.
 
-
-
 Until we have a safe and widely available vaccine, which can’t come too soon,
 
 and unless we go through the unimaginable hell of crashing forward toward herd immunity,
 
 personal high quality PPE is perhaps the only possible path out from the failed-policy path the US is on.
-
-
 
 I wish there were more solutions. I don’t know what they are.\
 \
@@ -177,10 +157,10 @@ Best, Bill
 
 > Begin forwarded message:\
 > \
-> From: Bill Joy <[wnjoy@mac.com](mailto:wnjoy@mac.com)>\
+> From: Bill Joy [\[wnjoy@mac.com](mailto:wnjoy@mac.com)](mailto:[wnjoy@mac.com](mailto:wnjoy@mac.com))\
 > Subject: Possible "saddle" in cases if R0 > 1 during shelter-in-place\
 > Date: April 6, 2020 at 8:16:27 AM EDT\
-> To: Bill Joy <[wnjoy@mac.com](mailto:wnjoy@mac.com)>\
+> To: Bill Joy [\[wnjoy@mac.com](mailto:wnjoy@mac.com)](mailto:[wnjoy@mac.com](mailto:wnjoy@mac.com))\
 > \
 > I’ve tried to explain a few times the danger of a too-weak shelter in place, and mentioned that this may cause a “saddle” in cases. Here is a more detailed explanation.\
 > \
@@ -227,15 +207,11 @@ Best, Bill
 > You go to war with the tools you have. We have limited tools. We aren’t using them well and aren’t prepared, emotionally, for the range of possible outcomes, including the possibility of a “saddle”.\
 > \
 > Bill
-
-
-
-
-
-> From: Bill Joy <[wnjoy@mac.com](mailto:wnjoy@mac.com)>\
+>
+> From: Bill Joy [\[wnjoy@mac.com](mailto:wnjoy@mac.com)](mailto:[wnjoy@mac.com](mailto:wnjoy@mac.com))\
 > Subject: What lies Ahead--Science Magazine "Projecting the transmission dynamics of SARS-CoV-2 through the postpandemic period"\
 > Date: April 14, 2020 at 4:12:37 PM EDT\
-> To: Bill Joy <[wnjoy@mac.com](mailto:wnjoy@mac.com)>\
+> To: Bill Joy [\[wnjoy@mac.com](mailto:wnjoy@mac.com)](mailto:[wnjoy@mac.com](mailto:wnjoy@mac.com))\
 > \
 > The attached Science magazine paper, posted today studies what we might expect after a first wave subsides,\
 > assuming we have only non-pharmaceutical interventions (distancing, masks, etc.). It is sobering,\
@@ -353,22 +329,23 @@ Best, Bill
 > That is, seasonality may actually be harder to deal with.\
 > The recent National Academies quick study concurred with earlier studies that seasonality\
 > was unlikely to be a major factor.  But if we are wishing for that\
-> we should be careful what we wish for, for as this indicates that could create a much\\
+> we should be careful what we wish for, for as this indicates that could create a much\
 > more difficult problem. (Of course wishing doesn’t make it so.)\
 > \
 > My takeaways:\
-> 1) We hope for therapies in the short run and a vaccine sooner that can be usually expected.\
-> We can spend money and go as fast as possible to try to make these things happen,\
-> but need to do the best to prepare for NPI’s as our tool for a while.\
-> 2) Even if R0 is 2.0-2.7 this will be very difficult to control; whatever the R0 is\
-> the fact that Washington is struggling to keep R0 < 1 (if it is) is troubling and makes\
-> “opening up” very difficult without additive NPI’s that work even with opening up.\
-> 3) We would benefit immensely from an innovative in personal masks, as I have been advocating, e.g.\
-> personal well-fitting N95 or better masks that can be cleaned (microwaved, boiled or hopefully washed)\
-> as a tool to materially decrease R0 both in the shelter-in-place regime\
-> (which still has substantial essential- and healthcare- workers circulating)\
-> and especially if we want to be more open.\
-> Without this, as the authors conclude near the end
+>
+> 1. We hope for therapies in the short run and a vaccine sooner that can be usually expected.\
+>    We can spend money and go as fast as possible to try to make these things happen,\
+>    but need to do the best to prepare for NPI’s as our tool for a while.\
+> 2. Even if R0 is 2.0-2.7 this will be very difficult to control; whatever the R0 is\
+>    the fact that Washington is struggling to keep R0 < 1 (if it is) is troubling and makes\
+>    “opening up” very difficult without additive NPI’s that work even with opening up.\
+> 3. We would benefit immensely from an innovative in personal masks, as I have been advocating, e.g.\
+>    personal well-fitting N95 or better masks that can be cleaned (microwaved, boiled or hopefully washed)\
+>    as a tool to materially decrease R0 both in the shelter-in-place regime\
+>    (which still has substantial essential- and healthcare- workers circulating)\
+>    and especially if we want to be more open.\
+>    Without this, as the authors conclude near the end
 >
 > > Intermittent distancing may be required into 2022 unless critical care capacity is increased\
 > > substantially or a treatment or vaccine becomes available.
@@ -378,8 +355,6 @@ Best, Bill
 > Best, Bill\
 > \
 > PS I finally note this work is sponsored (second author) by NIAID.
->
->
 >
 > Better personal masks can avoid and shorten shutdowns, saving the economy and lives\
 > \
@@ -400,3 +375,9 @@ Best, Bill
 > Our high-aspiration goal is to have masks widely available for the fall flu season; we just started this project a month ago so this will require a lot of barrier busting and is by no means certain. We are working to go as fast as we can—whether it is possible to go this fast will depend on our ability to commit to and rapidly procure substantial input materials required for the special polymer, to work with existing polymer compounders to create the new functional polymer, to insert our material quickly into the lines of downstream automated mask making partners, to receive any required approvals, and of course to raise the funds and hire the required staff to proceed with all due haste.\
 > \
 > We would like to get each of the 330M+- Americans the best reusable personal mask we can get to them quickly, and to further scale up for the rest of the world. We believe this new NPI (non pharmaceutical intervention) would dramatically change the course of this and any future respiratory pandemic.
+
+
+
+\[Link to Broad Covid Estimates](https://docs.google.com/presentation/d/1-rvZs0zsXF_0Tw8TNsBxKH4V1LQQXq7Az9kDfCgZDfE/edit?usp=gmail#slide=id.p1)
+
+{{< youtube gxAaO2rsdIs&authuser=0 >}}
