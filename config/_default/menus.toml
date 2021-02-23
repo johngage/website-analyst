@@ -10,12 +10,12 @@
 [[main]]
   name = "Pages"
   url = "page/"
-  weight = 20
+  weight = 30
 #
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "Posts"
+  url = "post"
+  weight = 20
 #
 #[[main]]
 #  name = "Projects"
