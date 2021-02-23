@@ -8,6 +8,8 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+Mar 27, 2020, 6:36 AM
+
 
 
 We are hoping for a peak in a few weeks.
@@ -26,21 +28,15 @@ of course people can say the chinese were fudging the data
 
 but this is the data we have and consistent with what we are seeing in numbers from italy and spain.
 
-
-
 note (per google) r0 for season flu is about 1.3, so this says that under lockdown with traffic ban and many quarantined at home
 
 it was still spreading about the same as seasonal flu!
-
-
 
 the point is that if the case rate continues to go up, even if it is slower, that never takes the pressure off the hospitals.
 
 we may see a slight decline from the initial peak as the first larger exponential slightly recedes but is then overtaken by the second
 
 as it is operating from an ever larger base of infections and herd immunity is still close to 0%.
-
-
 
 there is an outlier argument (oxford etc) that many more have been infected than we know
 
@@ -58,15 +54,11 @@ i hope that i am wrong, the oxford folks are correct and in fact we have substan
 
 but hope isn’t a plan… we can’t count on it.
 
-
-
 my model which has been very predictive over last few weeks is 33%/day uncontrolled, 25%/day weak controls.
 
 obviously much much lower so far in a few countries which avoided or suppressed community spread,
 
 not applicable to our situation so i haven’t even looked at the exponent there.
-
-
 
 we are beginning to see the effect of disinformation, as even weak non-compliance yields as above substantial additional spread.
 
@@ -75,8 +67,6 @@ this from a tweet i saw yesterday:
 misleading people has life and death consequences.
 
 over two weeks 1.31^14=44x 1.21^14=14x, 3x worse…
-
-
 
 bill
 
@@ -87,8 +77,6 @@ bill
 > My name is Bill Joy. As a venture capitalist I was involved, in 2006, in the creation of the KPCB Pandemic fund, which attempted to use venture capital innovation to prepare for pandemics, including starting a company which was working to provide surge ventilator capacity. [https://venturebeat.​com/2006/02/15/kleiner-​perkins-surprises-with-200-​million-pandemic-fund/](https://venturebeat.com/2006/02/15/kleiner-perkins-surprises-with-200-million-pandemic-fund/)
 >
 > [https://www.science20.com/​newswire/breathe\_technologies\_​inc_closes_on_us_15\_million\_​in_venture_funding_led\_by\_​kleiner_perkins_caufield_byers](https://www.science20.com/newswire/breathe_technologies_inc_closes_on_us_15_million_in_venture_funding_led_by_kleiner_perkins_caufield_byers)
->
->
 >
 > I have also written about these kinds of dangers in the popular press. I have watched with alarm over the last few weeks as the West (Italy, US etc) has ignored the lessons from China (and to a lesser extent Korea) and is proceeding down a path that is not known to work and which the Chinese quickly abandoned. We do this at our peril.
 >
@@ -128,26 +116,25 @@ bill
 >
 > > PROTECTING HOSPITAL WORKERS\
 > > \
-> > 1) N95’s can be UV-C’s or Microwaved (or probably treated with Ozone) and reused see this report from NIH.\
-> > Don’t know why this isn’t talked about more or if hospitals know this.\
-> > Published by Oxford University Press 2009.\
-> > [https://www.ncbi.nlm.nih.gov/​pmc/articles/PMC2781738/pdf/​mep070.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781738/pdf/mep070.pdf)\
-> > \
-> > 2) Larry Brilliant wrote in a Wired interview that N95’s only cut the risk by 5x.\
-> > This means that nurses and doctor’s are still exposed and in a long slog we’ll\
-> > see problems like in Lombardy.\
-> > Better suggestion—get a recreational SCUBA tank and regulator, plug your nose\
-> > with swimming plugs and protect your eyes e.g. with swimming goggles\
-> > or perhaps a ski mask, and then you won’t be exposed.\
-> > If you need to communicate you might have to write on a slate,\
-> > but this should cut the infection rate to near 0.\
-> > \
-> > The idea is to use things that are widely available. The suggestion above is to use the most common off the shelf common diving gear.\
-> > Slightly more exotic are full face scuba masks with 2-way communication equipment built in they are less common but should be easily obtainable or manufacturable.\
-> > [https://www.divein.com/guide/​dive-equipment/full-face-​diving-mask/](https://www.divein.com/guide/dive-equipment/full-face-diving-mask/)\
-> > You also don’t need to wear a full scuba tank, you can use a “pony bottle”\
-> > [https://www.leisurepro.com/p-​aqutp13/catalina-pony-bottle-​tanks-yellow-with-pro-valve-​13-cu?gclid=​Cj0KCQjw09HzBRDrARIsAG60GP\_​NchjGazUDMOaBPB2ZJSpS0K0U7eoVz​9esPArFcna\_​fmVANEqSs7UaAhysEALw_wcB&​gclsrc=aw.ds](https://www.leisurepro.com/p-aqutp13/catalina-pony-bottle-tanks-yellow-with-pro-valve-13-cu?gclid=Cj0KCQjw09HzBRDrARIsAG60GP_NchjGazUDMOaBPB2ZJSpS0K0U7eoVz9esPArFcna_fmVANEqSs7UaAhysEALw_wcB&gclsrc=aw.ds)\
-> > You need a small compressor to refill them, most dive shops would have one, not complicated many suppliers.\
-> > Should be more dive shops than hospitals in many locations.
->
->
+> >
+> > 1. N95’s can be UV-C’s or Microwaved (or probably treated with Ozone) and reused see this report from NIH.\
+> >    Don’t know why this isn’t talked about more or if hospitals know this.\
+> >    Published by Oxford University Press 2009.\
+> >    [https://www.ncbi.nlm.nih.gov/​pmc/articles/PMC2781738/pdf/​mep070.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2781738/pdf/mep070.pdf)\
+> >    \
+> > 2. Larry Brilliant wrote in a Wired interview that N95’s only cut the risk by 5x.\
+> >    This means that nurses and doctor’s are still exposed and in a long slog we’ll\
+> >    see problems like in Lombardy.\
+> >    Better suggestion—get a recreational SCUBA tank and regulator, plug your nose\
+> >    with swimming plugs and protect your eyes e.g. with swimming goggles\
+> >    or perhaps a ski mask, and then you won’t be exposed.\
+> >    If you need to communicate you might have to write on a slate,\
+> >    but this should cut the infection rate to near 0.\
+> >    \
+> >    The idea is to use things that are widely available. The suggestion above is to use the most common off the shelf common diving gear.\
+> >    Slightly more exotic are full face scuba masks with 2-way communication equipment built in they are less common but should be easily obtainable or manufacturable.\
+> >    [https://www.divein.com/guide/​dive-equipment/full-face-​diving-mask/](https://www.divein.com/guide/dive-equipment/full-face-diving-mask/)\
+> >    You also don’t need to wear a full scuba tank, you can use a “pony bottle”\
+> >    [https://www.leisurepro.com/p-​aqutp13/catalina-pony-bottle-​tanks-yellow-with-pro-valve-​13-cu?gclid=​Cj0KCQjw09HzBRDrARIsAG60GP\_​NchjGazUDMOaBPB2ZJSpS0K0U7eoVz​9esPArFcna\_​fmVANEqSs7UaAhysEALw_wcB&​gclsrc=aw.ds](https://www.leisurepro.com/p-aqutp13/catalina-pony-bottle-tanks-yellow-with-pro-valve-13-cu?gclid=Cj0KCQjw09HzBRDrARIsAG60GP_NchjGazUDMOaBPB2ZJSpS0K0U7eoVz9esPArFcna_fmVANEqSs7UaAhysEALw_wcB&gclsrc=aw.ds)\
+> >    You need a small compressor to refill them, most dive shops would have one, not complicated many suppliers.\
+> >    Should be more dive shops than hospitals in many locations.
