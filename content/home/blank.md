@@ -5,11 +5,12 @@ design:
   columns: "1"
 gallery_item:
   - album: gallery
-    image: hello.jpg
-    caption: gallery one
-  - album: gallery
     image: undp.jpg
     caption: UNDP
+  - album: gallery
+    image: hello.jpg
+    caption: gallery one
+
   - album: gallery
     image: kenyagov.jpg
   - album: gallery
