@@ -1,7 +1,8 @@
 ---
 title: Thoughts on the shape of COVID-19 immune escape risk and public policy
   implications
-subtitle: Variants
+subtitle: Variants, Asymptomatic carriers, previously immune populations, and
+  exponential R0
 date: 2021-01-26T05:37:00.000Z
 summary: ""
 draft: false
