@@ -34,14 +34,10 @@ Best, Bill
 Bill Joy<br>
 January 25, 2021
 
-THIS IS EFFECTIVELY A DISEASE WITH A VECTOR
+**THIS IS EFFECTIVELY A DISEASE WITH A VECTOR**
 
 COVID’s asymptomatic carriers make this essentially a “disease with a vector”,
-e.g. like a mosquito-borne disease.
-Diseases with vectors don’t have a strong incentive to evolve to be less deadly,
-as they aren’t prevented from spreading when their victims are disabled (e.g. not ambulatory).
-This means COVID evolution poses a substantial continuing threat not only of further pandemics,
-but also ones with substantially increased morbidity and mortality.
+e.g. like a mosquito-borne disease. Diseases with vectors don’t have a strong incentive to evolve to be less deadly, as they aren’t prevented from spreading when their victims are disabled (e.g. not ambulatory). This means COVID evolution poses a substantial continuing threat not only of further pandemics, but also ones with substantially increased morbidity and mortality.
 
 **FACTORS DRIVING RELATIVE RISK OF THE EVOLUTION TOWARD IMMUNE ESCAPE**
 
