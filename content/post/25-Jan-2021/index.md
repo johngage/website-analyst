@@ -118,7 +118,6 @@ This is worthy of an aggressive “Transwarp” program (a different name may be
 
 4. **FIT EVERYONE IN THE WORLD WITH REUSABLE / HOME CLEANABLE MASKS**
 
-We should also work to fit everyone with a medical grade reusable (simply cleanable, long lasting) mask, as masks are a tool which will work against respiratory transmitted virus strains that have not yet emerged, even and especially ones we have not imagined and thus not prepared vaccines for.
-To make sure to reach everyone, especially in Africa, it will be necessary, as noted by Larry Brilliant, to flood the market with such masks so there is no black market/resale but instead everyone has one.
+We should also work to fit everyone with a medical grade reusable (simply cleanable, long lasting) mask, as masks are a tool which will work against respiratory transmitted virus strains that have not yet emerged, even and especially ones we have not imagined and thus not prepared vaccines for. To make sure to reach everyone, especially in Africa, it will be necessary, as noted by Larry Brilliant, to flood the market with such masks so there is no black market/resale but instead everyone has one.
 
 END
