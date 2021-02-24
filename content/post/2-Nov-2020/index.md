@@ -1,7 +1,7 @@
 ---
 title: Marginal Masking (May) Matter Much More than IHME is Suggesting
 subtitle: " Simulation of Infections from Nov 2020 to May 2021 "
-date: 2020-11-2T23:20:16-08:00
+date: 2020-11-02T19:07:00.000Z
 summary: ""
 draft: false
 featured: false
