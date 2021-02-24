@@ -5,7 +5,8 @@ date: 2020-11-02T19:07:00.000Z
 summary: ""
 draft: false
 featured: false
-authors: []
+authors:
+  - WNJ
 lastmod: 2020-11-02T23:20:16-08:00
 tags: []
 categories: []
