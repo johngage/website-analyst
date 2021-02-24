@@ -52,10 +52,10 @@ PS As a largely-extinguished programmer I am well-aware that even the simplest c
 
 ### Here are the results:
 
-{{% staticref "media/2020.10.31 N&C Sim.pdf" %}}PDF of results. Quick scan of deaths up to May, 2021 {{% /staticref %}}
+{{% staticref "media/2020.10.31 N&C Sim.pdf" "newtab" %}}PDF of results. Quick scan of deaths up to May, 2021 {{% /staticref %}}
 
-{{% staticref "media/2020.10.31 N&C Sim.xlsx" %}}Spreadsheet of results. Not readable, clicking will download .xlsx file{{% /staticref %}}.
+{{% staticref "media/2020.10.31 N&C Sim.xlsx" "newtab" %}}Spreadsheet of results. Not readable, clicking will download .xlsx file{{% /staticref %}}.
 
-{{% staticref "media/2020.10.31 N&C Sim.numbers" %}}Numbers version of spreadsheet. Not readable, clicking will download Numbers file{{% /staticref %}}.
+{{% staticref "media/2020.10.31 N&C Sim.numbers" "newtab" %}}Numbers version of spreadsheet. Not readable, clicking will download Numbers file{{% /staticref %}}.
 
 [Link to simulation spreadsheets at GoogleSheets, showing all worksheets. Enables experimentation](https://docs.google.com/spreadsheets/d/1kmVfCwjZ5s_153_m6hIRoi71KHPnq_gG/edit#gid=349880428)

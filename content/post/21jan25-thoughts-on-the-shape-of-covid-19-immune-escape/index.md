@@ -81,7 +81,7 @@ e.g. make keeping schools open much more difficult.
 
 Absent the more infectious strains like the British strain, and because, at least in the US,
 of the effective segregation of the population into compliant and non-compliant subgroups.
-My previous analysis suggested that we were nearly, in the non-compliant subgroup,
+My previous analysis {{% staticref "media/2020.10.31 N&C Sim.pdf" "newtab" %}}PDF of Nov2020 simulation results: cases, Rt to May, 2021 {{% /staticref %}} suggested that we were nearly, in the non-compliant subgroup,
 sufficiently immune that the pandemic might have begun to abate there
 and thus across the whole population
 in the next couple of months even without vaccination.
