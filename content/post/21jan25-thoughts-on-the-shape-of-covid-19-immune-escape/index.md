@@ -17,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
-In my TED talk now more than a dozen years ago https://www.ted.com/talks/bill_joy_what_i_m_worried_about_what_i_m_excited_about
+In my [TED talk now more than a dozen years ago](https://www.ted.com/talks/bill_joy_what_i_m_worried_about_what_i_m_excited_about) (What I'm worried about..)
 I talked about pandemic preparedness and noted that we have little experience with pandemics, and thus don't have good intuition for them.
 
 So while I am glad to now see some discussion of the risk of the emergence resistant strains of COVID in the press, I find it troubling that some clear relationships that would seem to greatly affect the scale and timing of this risk and the resultant public policy implications to mitigate it are substantially missing, at least from the main discussions that I have heard and read.
