@@ -76,7 +76,7 @@ in previously less impacted demographic groups such as the young
 which would affect measures which need to be taken
 e.g. make keeping schools open much more difficult.
 
-STRAINS LIKE THE BRITISH STRAIN MOVE THE ENDPOINT OUT
+**STRAINS LIKE THE BRITISH STRAIN MOVE THE ENDPOINT OUT**
 
 Absent the more infectious strains like the British strain, and because, at least in the US,
 of the effective segregation of the population into compliant and non-compliant subgroups.
