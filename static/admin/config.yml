@@ -3,7 +3,7 @@ backend:
  branch: main
  #  squash_merges: true
  #  name: github
- repo: johngage/tlpf-1
+ repo: johngage/website-analyst
  # This file controls what content Netlify CMS can see, and edit.
  # Each "Collection" corresponds to a directory
  # in the base content directory, e.g., "home", "authors", "blog",
