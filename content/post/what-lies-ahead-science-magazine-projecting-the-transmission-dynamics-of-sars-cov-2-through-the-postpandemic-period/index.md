@@ -9,28 +9,22 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The attached Science magazine paper, posted today studies what we might expect after a first wave subsides,\
-assuming we have only non-pharmaceutical interventions (distancing, masks, etc.). It is sobering,\
+The attached Science magazine paper, posted today studies what we might expect after a first wave subsides, assuming we have only non-pharmaceutical interventions (distancing, masks, etc.). It is sobering,\
 \
 This new paper assumes a R0 between 2 and 2.5, which matches closely to what is generally assumed.\
 Here quoting now this earlier LANL paper I had circulated [https://wwwnc.cdc.gov/eid/arti​cle/26/7/20-0282_article](https://wwwnc.cdc.gov/eid/article/26/7/20-0282_article)\
-such an estimate range is derived\
+such an estimate range is derived from the early dynamics of the outbreak in Wuhan, China, suggesting a doubling time of the number of infected persons of 6–7 days and a basic reproductive number (R0) of 2.2–2.7.
 
-> from the early dynamics of the outbreak in Wuhan, China, suggesting a doubling time of\
-> of the number of infected persons of 6–7 days and a basic reproductive number (R0) of 2.2–2.7.\
-> we can only hope that the LANL author’s estimate of\
-> a median R0 value of 5.7 (95% CI 3.8–8.9)\
-> is incorrect as the results will be \*\*very much\*\* more dire than the new paper attach here suggest\
-> without substantial additional NPIs.\
-> \
-> This new paper shows how important the length of immunity will be.\
-> Short-term immunity (on the order of 40 weeks, similar to HCoV-OC43 and HCoV-KHU1\
-> favors the establishment of annual SARS_CoV-2 outbreaks,\
-> while lnoger-term immunity (two years) favors biennial outbreaks.\
-> They also study low- and high- seasonal variation\
-> A 40% summertime decline in R0 would reduce the unmitigated peak incidence of the initial SAR-CoV-2 pandemic wave.\
-> However, stronger seasonal forcing leads to a greater accumulation of susceptible individuals during period of low transmission in the summer, leading to recurrent outbreaks with higher peaks in the post-pandemic period.
->
+\
+We can only hope that the LANL author’s estimate of a median R0 value of 5.7 (95% CI 3.8–8.9) is incorrect as the results will be \*\*very much\*\* more dire than the new paper attach here suggest without substantial additional NPIs.\
+\
+This new paper shows how important the length of immunity will be.\
+Short-term immunity (on the order of 40 weeks, similar to HCoV-OC43 and HCoV-KHU1\
+favors the establishment of annual SARS_CoV-2 outbreaks, while lnoger-term immunity (two years) favors biennial outbreaks.\
+They also study low- and high- seasonal variation\
+A 40% summertime decline in R0 would reduce the unmitigated peak incidence of the initial SAR-CoV-2 pandemic wave.\
+However, stronger seasonal forcing leads to a greater accumulation of susceptible individuals during period of low transmission in the summer, leading to recurrent outbreaks with higher peaks in the post-pandemic period.
+
 > \
 > The paper also notes that even mild cross-immunity with other betacoronaviruses would be very helpful.\
 > \
@@ -48,17 +42,17 @@ such an estimate range is derived\
 > reductions in peak size come from social distancing intensity and duration that divide cases approximately\
 > equally between peaks (42).\
 > \
-> There is a lot more here—scenarios showing shutdowns of various lengths and the resultant waves\
-> which depend on immunity, R0, seasonality, herd immunity, cross-immunity and many other factors,\
-> most of which we don’t have final firm handles on.\
+> There is a lot more here—scenarios showing shutdowns of various lengths and the resultant waves which depend on immunity, R0, seasonality, herd immunity, cross-immunity and many other factors, most of which we don’t have final firm handles on.\
 > \
-> This is all very sobering. My personal models are much simpler than what is shown here, but have given\
-> me pause like here and more, because I have been assuming that it quite likely the case that R0 is\
-> still > 1 even with shelter-in-place, this even before allowing for a much higher R0. There is a very troubling\
-> comment here, almost an aside, that says, in the first column of page 2\
-> recent data from Seattle suggests that the basic reproduction number declined to about 1.4\
-> or by about 30-45% assuming a baseline R0 between 2 and 2.5 (24).\
-> Reference 24 dated March 29 [https://covid.idmod.org/data/S​ocial_distancing_mobility_redu​ctions_reduced_COVID_Seattle.​pdf](https://covid.idmod.org/data/Social_distancing_mobility_reductions_reduced_COVID_Seattle.pdf) says:\
+> This is all very sobering. My personal models are much simpler than what is shown here, but have given me pause like here and more, because I have been assuming that it quite likely the case that R0 is still > 1 even with shelter-in-place, this even before allowing for a much higher R0. There is a very troubling comment here, almost an aside, that says, in the first column of page 2
+>
+> \
+> >recent data from Seattle suggests that the basic reproduction number declined to about 1.4 or by about 30-45% assuming a baseline R0 between 2 and 2.5 (24).
+>
+> \
+> Reference 24 dated March 29 [https://covid.idmod.org/data/S​ocial_distancing_mobility_redu​ctions_reduced_COVID_Seattle.​pdf](https://covid.idmod.org/data/Social_distancing_mobility_reductions_reduced_COVID_Seattle.pdf) says:
+>
+> \
 > Our main result is that the epidemic has slowed, but that more progress is necessary.\
 > This result is clear from epidemiological data alone (tests, diagnoses, and deaths),\
 > but this data is lagged due to inherent COVID delays such as the latency period of infection.\
@@ -69,37 +63,29 @@ such an estimate range is derived\
 > \
 > That R0 may be > 1 even in a place less dense than Wuhan\
 > is precisely why I have been arguing that we must do “What Worked in Wuhan”.\
-> We don’t know what the R0 is—doing less than they did continues to be very very dangers.\
+> We don’t know what the R0 is—doing less than they did continues to be very very dangerous.\
 > \
-> Without the use of masks we can expect that a stay-at-home would have a R0 > than the R0 which\
-> the Harvard/China paper estimated at 1.21 in Wuhan in the period up to February 3\
+> Without the use of masks we can expect that a stay-at-home would have a R0 > than the R0 which the Harvard/China paper estimated at 1.21 in Wuhan in the period up to February 3\
 > at least in a similarly dense area (say Seattle).\
-> This is the reason there may be overlapping or a second “saddle” wave up when the first +33%/day wave subsides—\
-> the second upward curve from this hidden wave with R0 doubling time implied by R0 say 1.3-1.4\
-> as I have been assuming, this second overlapping wave up initially obscured by the first large pandemic wave.\
+> This is the reason there may be overlapping or a second “saddle” wave up when the first +33%/day wave subsides— the second upward curve from this hidden wave with R0 doubling time implied by R0 say 1.3-1.4 as I have been assuming, this second overlapping wave up initially obscured by the first large pandemic wave.\
 > \
-> This second wave of spread would also benefit from “family spread” as I have previously discussed,\
-> i.e. how this couples with asymptomatics where in a family sheltering the “healthy” one\
-> doing the shopping is self-selected to be the asymptomatic one.\
+> This second wave of spread would also benefit from “family spread” as I have previously discussed, i.e. how this couples with asymptomatics where in a family sheltering the “healthy” one doing the shopping is self-selected to be the asymptomatic one.
+>
+> \
 > Our whole strategy of co-isolating people with their families is finally getting some press\
 > [https://www.washingtonpost.com​/world/asia_pacific/being-sick​-and-alone-is-miserable-being-​sick-at-home-with-your-family-​might-be-dangerous/2020/04/13/​cfe63b32-744e-11ea-ad9b-​254ec99993bc_story.html](https://www.washingtonpost.com/world/asia_pacific/being-sick-and-alone-is-miserable-being-sick-at-home-with-your-family-might-be-dangerous/2020/04/13/cfe63b32-744e-11ea-ad9b-254ec99993bc_story.html)\
-> though the dire significance of family spread, in keeping R0 > 1,\
-> is probably lost in the huge noise of all this.\
-> That they noticed then and quickly acted in Wuhan and we are doing it only late and weakly\
-> is a strong indictment of our leadership in not responding and taking seriously what was done in Wuhan,\
-> despite the strong data presented, now more than a month ago, in the paper I have circulated many times.\
+> though the dire significance of family spread, in keeping R0 > 1, is probably lost in the huge noise of all this.
+>
 > \
-> This paper is also sobering on our ability to return to contact tracing and containment, see\
-> the discussion on the left hand side of page 7 which we have also now seen in Singapore, as they say\
-> Still, countries that have achieved this level of control of the outbreak should prepare for the\
-> possibility of substantial resurgences of infection and a return to social distancing measures\
-> \[paradoxically!] especially if a seasonal forcing contributes to a rise in transmissibility in the winter.\
-> Moreover, a winter peak for COVID-19 would coincide with peak influenza incidence,\
-> further straining health care systems.\
+> That they noticed then and quickly acted in Wuhan and we are doing it only late and weakly is a strong indictment of our leadership in not responding and taking seriously what was done in Wuhan, despite the strong data presented, now more than a month ago, in the paper I have circulated many times.\
 > \
-> That is, seasonality may actually be harder to deal with.\
-> The recent National Academies quick study concurred with earlier studies that seasonality\
-> was unlikely to be a major factor.  But if we are wishing for that\
+> This paper is also sobering on our ability to return to contact tracing and containment, see the discussion on the left hand side of page 7 which we have also now seen in Singapore, as they say\
+> Still, countries that have achieved this level of control of the outbreak should prepare for the possibility of substantial resurgences of infection and a return to social distancing measures \[paradoxically!] especially if a seasonal forcing contributes to a rise in transmissibility in the winter. Moreover, a winter peak for COVID-19 would coincide with peak influenza incidence, further straining health care systems.\
+> \
+> That is, seasonality may actually be harder to deal with.
+>
+> \
+> The recent National Academies quick study concurred with earlier studies that seasonality was unlikely to be a major factor.  But if we are wishing for that\
 > we should be careful what we wish for, for as this indicates that could create a much\
 > more difficult problem. (Of course wishing doesn’t make it so.)\
 > \
