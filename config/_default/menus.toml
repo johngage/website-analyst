@@ -11,6 +11,7 @@
   name = "Pages"
   url = "page/"
   weight = 30
+  pre = "<i class='fas fa-adjust'></i>"
 #
 [[main]]
   name = "Posts"
