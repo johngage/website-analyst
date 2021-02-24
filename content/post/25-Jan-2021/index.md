@@ -1,31 +1,20 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "25-Jan-2021"
-subtitle: "Variants"
+title: Thoughts on the shape of COVID-19 immune escape risk and public policy
+  implications
+subtitle: Variants
+date: 2021-01-26T05:37:00.000Z
 summary: ""
+draft: false
+featured: false
 authors: []
+lastmod: 2021-02-22T23:20:16-08:00
 tags: []
 categories: []
-date: 2021-02-22T23:20:16-08:00
-lastmod: 2021-02-22T23:20:16-08:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+projects: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 In my TED talk now more than a dozen years ago
 https://www.ted.com/talks/bill_joy_what_i_m_worried_about_what_i_m_excited_about
