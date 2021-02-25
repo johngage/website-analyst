@@ -10,7 +10,6 @@ gallery_item:
   - album: gallery
     image: hello.jpg
     caption: gallery one
-
   - album: gallery
     image: kenyagov.jpg
   - album: gallery
@@ -48,6 +47,6 @@ gallery_item:
     image: unhcr.png
 widget_id: blank-gallery
 weight: 30
+title: ""
 ---
-
-{{< figure library=true src="Image 4-6-20 at 7.01 AM.jpeg" title="WNJ diagram: covid-19" >}}
+{{< figure library=true src="Image 4-6-20 at 7.01 AM.jpeg" title="WNJ: covid-19 over time" >}}
