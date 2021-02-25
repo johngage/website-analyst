@@ -50,4 +50,4 @@ widget_id: blank-gallery
 weight: 30
 ---
 
-{{< figure library=true src="Image 4-6-20 at 7.01 AM.jpeg" title="covid-19" >}}
+{{< figure library=true src="Image 4-6-20 at 7.01 AM.jpeg" title="WNJ diagram: covid-19" >}}
