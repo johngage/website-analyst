@@ -50,3 +50,5 @@ weight: 30
 title: ""
 ---
 {{< figure library=true src="Image 4-6-20 at 7.01 AM.jpeg" title="WNJ: covid-19 over time" >}}
+
+{{< figure library=true src="Image 4-15-20 at 12.37 PM.jpeg" title="WNJ: Commonwealth Club, June, 2000" >}}
