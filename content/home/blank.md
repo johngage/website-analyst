@@ -49,8 +49,5 @@ gallery_item:
 widget_id: blank-gallery
 weight: 30
 ---
-{{< gallery >}}
 
-{{< figure library=true src="usembassy.jpg" title="Which One?" >}}
-
-{{< youtube "Pfxmqn6g&ab_channel=AliAbdaal" >}}
+{{< figure library=true src="Image 4-6-20 at 7.01 AM.jpeg" title="covid-19" >}}
