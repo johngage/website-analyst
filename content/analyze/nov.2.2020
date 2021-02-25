@@ -1,13 +1,11 @@
 ---
-title: Spreadsheet projecion
-summary: Behavior
+title: Spreadsheet projection
 date: "2021-01-25T00:00:00Z"
-
+summary: Behavior
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
