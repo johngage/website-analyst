@@ -8,8 +8,8 @@
   url = "#homepage"
   weight = 10
 [[main]]
-  name = "Pages"
-  url = "page/"
+  name = "Analysis"
+  url = "analyze/"
   weight = 30
   pre = "<i class='fas fa-adjust'></i>"
 #

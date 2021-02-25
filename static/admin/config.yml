@@ -576,7 +576,7 @@ collections:
         default: false
       - {label: "Body", name: "body", widget: "markdown"}
   - name: analyze
-    label: "Analyze"
+    label: "Analysis"
     folder: 'content/analyze'
     path: '{{slug}}/_index'
     create: true
