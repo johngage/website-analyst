@@ -5,7 +5,7 @@ advanced:
 widget: blank
 widget_id: homepage1
 headless: true
-weight: 20
+weight: 1
 title: ""
 subtitle: ""
 active: false
