@@ -1,4 +1,6 @@
 # Started with simple template in Feb 2021; added elements; latest mod Mar 25 2021
+This holds Bill Joy's email posts from 2020, outlining the steps that should be taken by public health entities to properly prepare for variants and symptom-less vectors--similar to mosquitoes--that make variant risk higher
+
 Adding a carousel slider partial template to layouts. TODO: test
 Add list of what has been added here.
 
